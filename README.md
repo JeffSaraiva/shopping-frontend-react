@@ -1,6 +1,6 @@
 
 =======
-# 🛒 Shopping Frontend
+# 🛒 Shopping Frontend React
 
 Frontend responsivo desenvolvido em **React + TypeScript** para um sistema de compras online. Esta aplicação consome uma API REST para exibição de produtos e gerenciamento de pedidos.
 
@@ -57,7 +57,7 @@ Utilização de classes como .main-wrapper, .cards-grid, .cart-card, .checkout-f
 git clone https://github.com/JeffSaraiva/shopping-frontend-react.git
 
 # Acessar o projeto
-cd shopping-frontend
+cd shopping-frontend-react
 
 # Instalar dependências
 npm install
